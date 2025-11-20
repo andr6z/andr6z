@@ -1,5 +1,5 @@
 # Hi everyone 
----
+
 I'm André. I'm an aspiring Full Stack Developer and IT student based in Brazil. Currently, I'm studying Systems Analysis and Development at IF Baiano, consistently leveling up my coding skills and exploring new technologies."
 
 - I’m currently working on my portfolio.
@@ -14,8 +14,8 @@ I'm André. I'm an aspiring Full Stack Developer and IT student based in Brazil.
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andredsg12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=inkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andredsg12@gmail.com)
 
 ---
 *Thanks for visiting my profile!*
