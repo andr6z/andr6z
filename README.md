@@ -17,5 +17,5 @@ I'm André. I'm an aspiring Full Stack Developer and IT student based in Brazil.
 
 #### For contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=inkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=plastic&logo=inkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andredsg12@gmail.com)
