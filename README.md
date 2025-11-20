@@ -12,10 +12,10 @@ I'm André. I'm an aspiring Full Stack Developer and IT student based in Brazil.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 📫 Connect with me
+*Thanks for visiting my profile!*
+
+
+#### For contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=inkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:andredsg12@gmail.com)
-
----
-*Thanks for visiting my profile!*
