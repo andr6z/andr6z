@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi everyone 
+---
+I'm André. I'm an aspiring Full Stack Developer and IT student based in Brazil. Currently, I'm studying Systems Analysis and Development at IF Baiano, consistently leveling up my coding skills and exploring new technologies."
 
-<!--
-**andr6z/andr6z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on my portfolio.
+- I’m currently learning PHP and Laravel.
 
-Here are some ideas to get you started:
+### Technologies abd Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andredsg12@gmail.com)
+
+---
+*Thanks for visiting my profile!*
