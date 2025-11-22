@@ -35,11 +35,7 @@ I am currently studying PHP with Laravel and building my portfolio.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
 </p>
 
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=André-64&color=blueviolet" alt="Profile views"/>
-</p>
+<br>
 
 ##  Contact
 
