@@ -1,5 +1,9 @@
 # Hello everyone! I'm André
 ### Aspiring Full Stack Developer & Systems Analysis and Development Student
+
+![Visitors](https://komarev.com/ghpvc/?username=andr6z&color=blue&style=for-the-badge)
+![Status](https://lanyard.cnurse.me/api/SEU_DISCORD_ID?simple=true)
+
 Currently, I am a student of **Systems Analysis and Development** at IF Baiano. I am focused on building bridges between the Front-end and Back-end, consistently leveling up my coding skills and exploring new technologies.
 I am currently studying PHP with Laravel and building my portfolio.
 
@@ -13,8 +17,7 @@ I am currently studying PHP with Laravel and building my portfolio.
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,bash,debian,notion,arch,figma)](https://skillicons.dev)
 
 ## 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,alpinejs,htmx,mui)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=chakra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,alpinejs,htmx,mui,chakra)](https://skillicons.dev)
 
 <br>
 
