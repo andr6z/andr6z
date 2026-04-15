@@ -1,9 +1,6 @@
 # Hello everyone! I'm André
 ### Aspiring Full Stack Developer & Systems Analysis and Development Student
 
-![Visitors](https://komarev.com/ghpvc/?username=andr6z&color=blue&style=for-the-badge)
-![Status](https://lanyard.cnurse.me/api/SEU_DISCORD_ID?simple=true)
-
 Currently, I am a student of **Systems Analysis and Development** at IF Baiano. I am focused on building bridges between the Front-end and Back-end, consistently leveling up my coding skills and exploring new technologies.
 I am currently studying PHP with Laravel and building my portfolio.
 
@@ -26,5 +23,6 @@ I am currently studying PHP with Laravel and building my portfolio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andredsg12@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=andr6z&color=blue&style=for-the-badge)
 
 *Thanks for visiting my profile*
