@@ -11,11 +11,10 @@ I am currently studying PHP with Laravel and building my portfolio.
 
 ## Others
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,bash,debian,notion,arch,figma)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="50"/>
-<img src="https://img.shields.io/badge/Nmap%2FZenmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" height="50"/>
 
 ## 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,alpinejs,htmx,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=chakra)](https://skillicons.dev)
 
 <br>
 
