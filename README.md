@@ -8,13 +8,13 @@ I am currently studying PHP with Laravel and building my portfolio.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ## Back-end and Databases
-[![My Skills](https://skillicons.dev/icons?i=php,java,python,postgres,mariadb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java,python,postgres,mariadb,mysql)](https://skillicons.dev)
 
 ## Others
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,bash,debian,notion,arch,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,debian,notion,arch,figma)](https://skillicons.dev)
 
 ## 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,alpinejs,htmx,mui,chakra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,bash,alpinejs,htmx,mui,chakra)](https://skillicons.dev)
 
 <br>
 
