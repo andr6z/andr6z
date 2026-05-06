@@ -14,7 +14,7 @@ I am currently studying PHP with Laravel and building my portfolio.
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,debian,notion,arch,figma,obsidian)](https://skillicons.dev)
 
 ## 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,kalilinux,bash,wordpress,postman,mongodb,alpinejs,htmx,mui,chakra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,kali,bash,wordpress,postman,mongodb,alpinejs,htmx,mui,chakra)](https://skillicons.dev)
 
 <br>
 
